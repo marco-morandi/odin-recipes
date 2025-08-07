@@ -8,3 +8,7 @@ The main topics of this project are:
 - HTML paragraphs and texr alteration
 - HTML lists
 - HTML links and images
+
+### Images attribution 
+
+- Hamburger: got from [Valeria Boltneva](https://www.pexels.com/it-it/@valeriya/) on [pexels](https://www.pexels.com/it-it/foto/foto-di-hamburger-succoso-sulla-superficie-in-legno-1639565/)
